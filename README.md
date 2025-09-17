@@ -1,7 +1,7 @@
 # Line Following Robot 🤖
 
 A line following robot built using **Arduino UNO** and **IR sensors**.  
-This project was designed and implemented by [Aman] and [Rudresh Khunt] as part of a robotics challenge.  
+This project was designed and implemented by **Aman** and **Rudresh Khunt** as part of a robotics challenge.  
 
 ## 🚀 Features
 - Follows a black line on a white surface (or vice versa)
