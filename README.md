@@ -1,4 +1,4 @@
-<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/e019bc88-9e89-4397-b2b6-270a0b260a34" /># Line Following Robot 🤖
+# Line Following Robot 🤖
 
 A line following robot built using **Arduino UNO** and **IR sensors**.  
 This project was designed and implemented by [Aman] and [Rudresh Khunt] as part of a robotics challenge.  
@@ -37,6 +37,12 @@ This project was designed and implemented by [Aman] and [Rudresh Khunt] as part 
 <br>
 
 https://github.com/user-attachments/assets/e0cbdd0c-4096-4dd9-97cb-ff11eed66d4e
+
+<br>
+
+
+
+https://github.com/user-attachments/assets/42f14c68-cc76-4d77-9fb2-b0dbb4b3c1bd
 
 
 
