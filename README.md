@@ -44,10 +44,10 @@ https://github.com/user-attachments/assets/e0cbdd0c-4096-4dd9-97cb-ff11eed66d4e
 
 https://github.com/user-attachments/assets/42f14c68-cc76-4d77-9fb2-b0dbb4b3c1bd
 
-
+----
 
 ## 👨‍💻 Authors
-- Aman
+- Aman Khokhar
     www.linkedin.com/in/amankhokhar293
   
 - Rudresh Khunt
@@ -56,4 +56,4 @@ https://github.com/user-attachments/assets/42f14c68-cc76-4d77-9fb2-b0dbb4b3c1bd
 ## 🏆 Achievement
 Secured **3rd Rank** in **Line-X: Line Follower Robot Challenge** at Convergence 2025 – National Level Technical Symposium, Ganpat University.
 
-------
+
